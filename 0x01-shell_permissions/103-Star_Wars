@@ -1,2 +1,2 @@
 #!/bin/bash
-mpv "Star wars episode"
+telnet towel.blinkenlights.nl
